@@ -214,7 +214,7 @@
 - [Ugly Number](math/UglyNumber.py)
 - [Prime Number Iterative and Recursive](math/prime_number.py)
 - [Catalan Number](math/Catalan_Number.py)
-
+- [Luca Theorrem](math/Lucas_Theorem.py)
 
 ## Blockchain
 
